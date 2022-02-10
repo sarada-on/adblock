@@ -1,0 +1,7 @@
+﻿[Adblock Plus 2.0]
+! Title: My List
+! Author: sarada
+! Version: 1.0
+! Expires: 1 days
+!
+||trymask.com/api/*
