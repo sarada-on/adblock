@@ -4,4 +4,4 @@
 ! Version: 1.0
 ! Expires: 1 days
 !
-||buondua.com/*
+||buondua.com/t*
